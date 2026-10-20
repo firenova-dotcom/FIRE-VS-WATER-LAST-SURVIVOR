@@ -1,0 +1,6 @@
+{
+  "name": "Fire vs Water 🔥💧",
+  "description": "An action-packed cute 2D endless runner where an adorable flame leaps over puddles, falling droplets, and rushing water hazards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
